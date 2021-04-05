@@ -1,1 +1,1 @@
-# CIS, practice wiht GitHub
+# CIS, practice with GitHub
